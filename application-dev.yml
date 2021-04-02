@@ -1,6 +1,6 @@
 mysql:
-    user: root_
+    user: root_5
 
 person:
-    name: yuanjing_
+    name: yuanjing_5
     age: 10
