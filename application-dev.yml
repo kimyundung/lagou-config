@@ -1,5 +1,5 @@
 mysql:
-    user: root5_1
+    user: root5_2
 person:
-    name: yuanjin5_1
-    age: 13
+    name: yuanjin5_2
+    age: 14
